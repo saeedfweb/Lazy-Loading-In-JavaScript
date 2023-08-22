@@ -1,5 +1,5 @@
 # Lazy-Loading-In-JavaScript
 Lazy loading is a method used to defer the loading of non-essential content until it becomes necessary for users to view it. Unlike other loading methods, where all website assets load simultaneously upon accessing the page, lazy loading takes a more calculated approach.<br/>
 https://blog.openreplay.com/lazy-loading-in-javascript/<br/>
-Introduction<br/>
+<strong>Introduction</strong><br/>
 Web users have high expectations regarding website loading times and performance. Websites that are slow to load can increase bounce rates and dissatisfied users. To address this challenge, developers are constantly seeking different techniques to improve the speed and overall user experience, and one such approach is ”Lazy Loading.” To achieve lazy loading, developers use JavaScript. Using JavaScript, web developers can control when and how specific elements are fetched from the server and rendered on the user’s screen. This article will look into the benefits of lazy loading, ways to implement it, its impacts on web performance, challenges, and best practices.
